@@ -1,0 +1,5 @@
+{
+  "baseurl": "https://www.gerrit.se",
+  "username": "username",
+  "password": "password or http_token"
+}
